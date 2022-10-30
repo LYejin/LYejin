@@ -18,5 +18,3 @@
 <img width="626" alt="all" src="https://user-images.githubusercontent.com/81840814/198895249-d3295158-1726-4801-ad27-bc0cb1c850c8.PNG">
 
 <img width="627" alt="ak" src="https://user-images.githubusercontent.com/81840814/198895255-5109ea1a-839f-494d-829c-e75fef789ed4.PNG">
-
-<img width="617" alt="sdf" src="https://user-images.githubusercontent.com/81840814/198895258-18ca81a3-18ee-47e0-82c0-5f260b9287bc.PNG">
