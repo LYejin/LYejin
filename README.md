@@ -21,13 +21,13 @@
 
 ### 이미지
 
-<img width="353" alt="스크린샷 2022-10-31 오후 5 07 59" src="https://user-images.githubusercontent.com/81840814/198961447-9082ca75-fd55-4be0-8f71-f9e9e595365b.png">
-<img width="356" alt="스크린샷 2022-10-28 오후 5 40 21" src="https://user-images.githubusercontent.com/81840814/198961480-8ff25654-2ad9-46e9-86b9-0e3142dfacac.png">
-<img width="356" alt="스크린샷 2022-10-28 오후 5 41 40" src="https://user-images.githubusercontent.com/81840814/198967630-5695dbb2-b5fd-4605-a058-3a5fec65c854.png">
+<img width="353" alt="스크린샷 2022-10-31 오후 5 07 59" src="https://user-images.githubusercontent.com/81840814/198961447-9082ca75-fd55-4be0-8f71-f9e9e595365b.png width="200" height="400"/>
+<img width="356" alt="스크린샷 2022-10-28 오후 5 40 21" src="https://user-images.githubusercontent.com/81840814/198961480-8ff25654-2ad9-46e9-86b9-0e3142dfacac.png width="200" height="400"/">
+<img width="356" alt="스크린샷 2022-10-28 오후 5 41 40" src="https://user-images.githubusercontent.com/81840814/198967630-5695dbb2-b5fd-4605-a058-3a5fec65c854.png width="200" height="400"/">
 
-<img width="353" alt="스크린샷 2022-10-31 오후 5 09 37" src="https://user-images.githubusercontent.com/81840814/198967662-78f78e37-6e5e-4ab5-b866-9adfb888fd0c.png">
-<img width="353" alt="스크린샷 2022-10-31 오후 5 09 46" src="https://user-images.githubusercontent.com/81840814/198967674-61cad98e-7204-444d-a8f1-906ebee4936b.png">
-<img width="353" alt="스크린샷 2022-10-31 오후 5 09 55" src="https://user-images.githubusercontent.com/81840814/198967709-46e85177-3d5f-4504-a0f7-37db38784058.png">
+<img width="353" alt="스크린샷 2022-10-31 오후 5 09 37" src="https://user-images.githubusercontent.com/81840814/198967662-78f78e37-6e5e-4ab5-b866-9adfb888fd0c.png width="200" height="400"/">
+<img width="353" alt="스크린샷 2022-10-31 오후 5 09 46" src="https://user-images.githubusercontent.com/81840814/198967674-61cad98e-7204-444d-a8f1-906ebee4936b.png width="200" height="400"/">
+<img width="353" alt="스크린샷 2022-10-31 오후 5 09 55" src="https://user-images.githubusercontent.com/81840814/198967709-46e85177-3d5f-4504-a0f7-37db38784058.png width="200" height="400"/">
 
 
 
