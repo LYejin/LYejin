@@ -19,15 +19,13 @@
 
 <img width="627" alt="ak" src="https://user-images.githubusercontent.com/81840814/198895255-5109ea1a-839f-494d-829c-e75fef789ed4.PNG">
 
-### 이미지
-
-<p align="center">
+<p align="">
 <img src="https://user-images.githubusercontent.com/81840814/198961447-9082ca75-fd55-4be0-8f71-f9e9e595365b.png" width="200" height="400"/>
 <img src="https://user-images.githubusercontent.com/81840814/198961480-8ff25654-2ad9-46e9-86b9-0e3142dfacac.png" width="200" height="400"/">
 <img src="https://user-images.githubusercontent.com/81840814/198967630-5695dbb2-b5fd-4605-a058-3a5fec65c854.png" width="200" height="400"/">
 </p>
  
-<p align="center">
+<p align="">
 <img src="https://user-images.githubusercontent.com/81840814/198967662-78f78e37-6e5e-4ab5-b866-9adfb888fd0c.png" width="200" height="400"/>
 <img src="https://user-images.githubusercontent.com/81840814/198967674-61cad98e-7204-444d-a8f1-906ebee4936b.png" width="200" height="400"/>
 <img src="https://user-images.githubusercontent.com/81840814/198967709-46e85177-3d5f-4504-a0f7-37db38784058.png" width="200" height="400"/>
