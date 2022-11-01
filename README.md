@@ -1,9 +1,9 @@
 # Hello, world! :gift_heart:
-
+<p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LYejin&show_icons=true&theme=buefy)
 
-![곰돌](https://user-images.githubusercontent.com/81840814/199257377-28ea0435-3682-4007-9eb6-5b7fe3cf06dc.gif)
-
+<img src="https://user-images.githubusercontent.com/81840814/199257377-28ea0435-3682-4007-9eb6-5b7fe3cf06dc.gif" width="100"/>
+</p>
  
 # :muscle: Skills
 
