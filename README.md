@@ -1,7 +1,10 @@
 # Hello, world! :gift_heart:
 
+<p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LYejin&show_icons=true&theme=buefy)
-
+![LINE Official Stickers - Soft and Cute Chick 3 (Animated) Example with GIF Animation](https://user-images.githubusercontent.com/81840814/199256076-320bdfe2-ebbc-4bcc-a67d-b844670d94d5.gif)
+</p>
+ 
 # :muscle: Skills
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
