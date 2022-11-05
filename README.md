@@ -1,6 +1,6 @@
 # Hello, world! :gift_heart:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LYejin&show_icons=true&theme=buefy)<img src="https://user-images.githubusercontent.com/81840814/199257377-28ea0435-3682-4007-9eb6-5b7fe3cf06dc.gif" width="200"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LYejin&show_icons=true&theme=buefy)<img src="https://user-images.githubusercontent.com/81840814/200132249-49e05981-642d-4df2-a412-868a43d883d4.jpeg" width="200"/>
 
  
 # :muscle: Skills
