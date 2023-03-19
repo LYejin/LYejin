@@ -16,7 +16,7 @@
 ## 프로젝트 - 프론트엔드(react, tailwind css, typescipt, apollo graphql 사용)
 - 현재 private으로 작업 중이어서 public으로 코드를 공개하지 못하는 점 양해 부탁드립니다.
 
-<img width="626" alt="all" src="https://user-images.githubusercontent.com/81840814/198895249-d3295158-1726-4801-ad27-bc0cb1c850c8.PNG">
+<img width="626" alt="all" src="https://user-images.githubusercontent.com/81840814/226169590-38d5a72e-19dc-4bc4-8eb6-5a42ef9ce99d.png">
 
 <img width="627" alt="ak" src="https://user-images.githubusercontent.com/81840814/198895255-5109ea1a-839f-494d-829c-e75fef789ed4.PNG">
 
