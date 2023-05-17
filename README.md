@@ -2,6 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LYejin&show_icons=true&theme=buefy)<img src="https://user-images.githubusercontent.com/81840814/200132249-49e05981-642d-4df2-a412-868a43d883d4.jpeg" width="180"/>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=vgg789)](https://solved.ac/vgg789)
  
 # :muscle: Skills
 
@@ -12,7 +13,6 @@
 
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=vgg789)](https://solved.ac/vgg789)
 
 ## 프로젝트 - 프론트엔드(react, tailwind css, typescipt, apollo graphql 사용)
 - 현재 private으로 작업 중이어서 public으로 코드를 공개하지 못하는 점 양해 부탁드립니다.
